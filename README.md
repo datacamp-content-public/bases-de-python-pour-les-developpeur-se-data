@@ -1,1 +1,1 @@
-# courses-sql-pour-les-developpeur-se-data
+# Développeur.se Data - Les Bases de Python
