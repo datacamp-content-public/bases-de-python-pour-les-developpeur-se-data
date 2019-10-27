@@ -1,4 +1,15 @@
-title: SQL pour les Développeur.se Data
-description: Course description goes here.
+title: Python pour les Développeur.se Data
+description: |-
+  *Un atelier spécialement conçu pour la formation Développeur.se Data.*
+  Dans le cadre de son activité, un.e Développeur.se Data travaille sur :
+  - L'analyse des besoins client
+  - La proposition d'outils
+  - La conception de bases de données
+  Acquisition des données
+  Préparation des données
+  Alimentation d'une base de données
+  Optimisation d'une base de données
+  Mise en conformité du traitement de la donnée réalisé
+  Mise à disposition et traitement des données (visualisations, dashboard, etc)
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
