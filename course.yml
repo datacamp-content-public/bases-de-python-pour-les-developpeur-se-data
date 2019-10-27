@@ -1,15 +1,27 @@
 title: Python pour les Développeur.se Data
-description: |-
-  *Un atelier spécialement conçu pour la formation Développeur.se Data.*
-  Le Développeur.se Data travaille sur :
+description: >-
+  Un workshop sur le langage de programmation Python spécialement conçu pour la
+  formation Développeur.se Data.
+
+  Le Développeur.se Data travaille notamment sur :
+
   - L'analyse des besoins client
+
   - La proposition d'outils
+
   - La conception de bases de données
-  Acquisition des données
-  Préparation des données
-  Alimentation d'une base de données
-  Optimisation d'une base de données
-  Mise en conformité du traitement de la donnée réalisé
-  Mise à disposition et traitement des données (visualisations, dashboard, etc)
+
+  - L'acquisition des données
+
+  - La préparation des données
+
+  - L'alimentation de base de données
+
+  - L'optimisation de base de données
+
+  - La mise en conformité du traitement de la donnée réalisé
+
+  - La mise à disposition et le traitement des données visualisations,
+  dashboard, ...)
 programming_language: python
 from: 'python-base-prod:v1.0.2'
