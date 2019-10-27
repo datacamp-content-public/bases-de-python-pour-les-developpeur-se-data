@@ -21,7 +21,7 @@ description: >-
 
   - La mise en conformité du traitement de la donnée réalisé
 
-  - La mise à disposition et le traitement des données visualisations,
-  dashboard, ...)
+  - La mise à disposition et le traitement des données comme
+   la data visualisation, les tableaux de bord, etc.
 programming_language: python
 from: 'python-base-prod:v1.0.2'
