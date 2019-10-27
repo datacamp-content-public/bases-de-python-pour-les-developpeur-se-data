@@ -7,23 +7,23 @@ description: >-
   Le Développeur.se Data travaille notamment sur :
 
 
-  - L'analyse des besoins client
+  • L'analyse des besoins client
 
-  - La proposition d'outils
+  • La proposition d'outils
 
-  - La conception de bases de données
+  • La conception de bases de données
 
-  - L'acquisition des données
+  • L'acquisition des données
 
-  - La préparation des données
+  • La préparation des données
 
-  - L'alimentation de base de données
+  • L'alimentation de base de données
 
-  - L'optimisation de base de données
+  • L'optimisation de base de données
 
-  - La mise en conformité du traitement de la donnée réalisé
+  • La mise en conformité du traitement de la donnée réalisé
 
-  - La mise à disposition et le traitement des données comme
+  • La mise à disposition et le traitement des données comme
    la data visualisation, les tableaux de bord, etc.
 programming_language: python
 from: 'python-base-prod:v1.0.2'
